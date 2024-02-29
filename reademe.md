@@ -27,6 +27,3 @@ O repositório está dividido em seções distintas, cada uma abordando um aspec
 
 Contribuições são bem-vindas! Se você tem alguma sugestão de melhoria, correção de erros ou deseja adicionar mais conteúdo, sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-### Autor
-
-Este repositório é mantido por [Seu Nome].
